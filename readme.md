@@ -1,16 +1,16 @@
-!grunttest
+#grunttest#
 
-!!setup
+##setup##
 
-!!!install grunt-cli
+###install grunt-cli###
 
 ```npm install -g grunt-cli```
 
-!!!install dependencies
+###install dependencies###
 
 ```npm install```
 
-!!!start watching
+###start watching###
 
 ```grunt watch```
 
