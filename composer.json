@@ -1,0 +1,9 @@
+{
+    "require": {
+
+	},
+	"scripts": {
+		"post-install-cmd": "sh npm_install.sh",
+		"post-update-cmd": "sh npm_install.sh"
+	}
+}
