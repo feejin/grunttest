@@ -11,4 +11,4 @@ function is_installed {
 	fi
 }
 
-
+echo $(is_installed npm "npm install")
