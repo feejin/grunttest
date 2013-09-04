@@ -2,7 +2,7 @@
 	"require": {
 	},
 	"scripts": {
-		"post-install-cmd": "sh npm_install.sh",
-		"post-update-cmd": "sh npm_install.sh"
+		"post-install-cmd": "bash npm_install.sh",
+		"post-update-cmd": "bash npm_install.sh"
 	}
 }
